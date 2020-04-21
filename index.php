@@ -12,7 +12,7 @@
 </ul> -->
 <br>
 <div class="green">
-<h1> We have best Talent to 
+<h1> We have best talent to 
 help  Organisations to grow their businesses through development, design,
 and digital marketing capabilities and We Mean IT</h1>
 </div>

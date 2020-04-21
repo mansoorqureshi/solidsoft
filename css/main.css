@@ -30,7 +30,7 @@ margin:0  auto;
 overflow: hidden;
 max-width: 1170px;
 }
-.h1{}
+
 h1{
   font-size: 40px;
   font-weight: bold;
@@ -190,17 +190,17 @@ background-color: #000000;
 }
 /*TECHNOLOGIES*/
 .tech{
-  background-color: #698282;
-  border-top:3px #1fe5af solid;
+  background-color: #796dbb;
+  border-top:3px #5e77be solid;
   width: 100%;
  /* height: auto;
   margin: auto;
   /*max-width: 1500px;*/
-  border-bottom:3px #1fe5af solid;
+  border-bottom:3px #5e77be solid;
 }
  .text_a{
   text-decoration: none;
-  color: #036131;
+  color: #cfdad4;
   font-size: 16px;
   font-weight: 600;
 }
@@ -225,7 +225,7 @@ background-color: #000000;
    font-family: Raleway;
    font-size: 25px;
    font-weight: 600;
-   color: #7fff00;
+   color: #fcf2f1;
    margin-right: 63px;
  }
 .tech_pad{
@@ -897,7 +897,7 @@ background-color: rgba(255,255,255,0)
     display: inline;
     font-size: 12px;
     float: left;
-    color::gray;
+    color:gray;
 }
 ul.breadcrumb li+li:before {
     padding: 0px ;

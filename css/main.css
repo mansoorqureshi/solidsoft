@@ -200,8 +200,8 @@ background-color: #000000;
 }
  .text_a{
   text-decoration: none;
-  color: #cfdad4;
-  font-size: 16px;
+  color: #d3eced;
+  font-size: 22px;
   font-weight: 600;
 }
 .tech .x{
@@ -223,7 +223,7 @@ background-color: #000000;
 }
  .tech h1{
    font-family: Raleway;
-   font-size: 25px;
+   font-size: 27px;
    font-weight: 600;
    color: #fcf2f1;
    margin-right: 63px;
@@ -908,14 +908,14 @@ ul.breadcrumb li a {
 
     color: gray;
     text-decoration: none;
-}5
+}
 ul.breadcrumb li a:hover {
     color: #1fe5af;
     text-decoration: underline;
 }
 /*all technologies*/
 .abc{
-  width: 50%;5
+  width: 50%;
   float: left;
 }
 .h1_al{
@@ -945,4 +945,14 @@ transition: 1s;
 }
 .services{
     color:#000;
+}
+
+.typewrite{
+	text-align:center;
+	color:#CF9;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:2vw;
+	word-wrap:break-word;
+	position:relative;
+	top:10px;
 }

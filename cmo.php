@@ -26,7 +26,7 @@ with integrated creative teams</h1>
   <div class="container">
     <div class="white">
 
-  <p>At Capital Numbers, we deliver a wide range of marketing skills to help you build, optimize, and integrate a variety of marketing systems. We understand SEO, PPC, and Social Media. Not only can we run analytics, but we can also break them down for you. By helping you plan and execute digital marketing strategies, we’re helping you to reach your market.
+  <p>At We Know IT, we deliver a wide range of marketing skills to help you build, optimize, and integrate a variety of marketing systems. We understand SEO, PPC, and Social Media. Not only can we run analytics, but we can also break them down for you. By helping you plan and execute digital marketing strategies, we’re helping you to reach your market.
 <br>
 Let your teams execute your creative vision. We can handle the details, like content updates, creative design, and traffic engagement. This way, you can grow and reach your market much faster and easier, meet your revenue goals, and continue to grow while calling on us if you need to.
 <br>

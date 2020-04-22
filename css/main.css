@@ -658,7 +658,8 @@ text-align: center;
   }
 
   .white{
-    background-color: #fff;
+    background-color: rgb(46, 145, 170);
+    display: block;
   }
   .white > h1{
   color: #000;
@@ -951,8 +952,15 @@ transition: 1s;
 	text-align:center;
 	color:#CF9;
 	font-family:Georgia, "Times New Roman", Times, serif;
-	font-size:2vw;
+	font-size:40px;
 	word-wrap:break-word;
 	position:relative;
-	top:10px;
+  top:10px;
+}
+
+@media only screen and (max-width: 600px){
+ .typewrite
+{
+  font-size:15px;
+}
 }

@@ -21,7 +21,7 @@
         business operates, or launching high-end and beautiful mobile apps
         for iOS and Android, then you should know that there’s only one place you
         can get a dedicated team of skilled developers working exclusively on
-        your vision: right here at Capital Numbers.</p>
+        your vision: right here at We Know IT.</p>
           <ul style="list-style:none">
           <li> <i class="far fa-check-circle"></i>&nbsp;&nbsp;We work with you and your team on planning and strategy</li>
           <li> <i class="far fa-check-circle"></i>&nbsp;&nbsp;We have hands on experience with both native and hybrid mobile apps.</li>

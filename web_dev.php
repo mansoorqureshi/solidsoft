@@ -20,7 +20,7 @@
 </div>
 <div class="container">
   <h1>Web App Developement</h1>
-  <h2 class="typewrite" data-period="2000" data-type='["We Specialise in Web Development;", " { Ecommerce }", "Mobile Apps;", "Digital Marketing","Let us Help to Increase Your profits and cut Costs...","20 Years in Business"]'>
+  <h2 class="typewrite" data-period="2000" data-type='["Increase Your profits and cut Costs...","We Specialise in Ecommerce Stores;", "Online Orders Management", "Digital Marketing","We Know IT with 20 Years in Business"]'>
             <span class="wrap"></span>
          </h2>
 </div>
@@ -51,7 +51,9 @@
 <h2>API Development and Documentation</h2>
 <p >We can help you if you need to build
  or, consume an API. Our teams have worked with
- all sort of APIs including Voice, Video, Payment, Cloud, Accounting etc.</p>
+ all sort of APIs including Voice, Video, Payment, Cloud, Accounting etc.Our developers have experience
+    building websites for almost every industry and on almost every platform
+     including WordPress, Drupal and Joomla.</p>
 
 </div>
 <div class="white container">
@@ -61,8 +63,9 @@
 </section>
 <section class="green">
 
-<div class="green">
 <div class="container">
+<div class="green">
+
 <h2>Web Applications</h2>
 <p>  We have built all sorts of web-applications from online forms, workflows to whole management systems. We work on projects both big and small.
 </p>

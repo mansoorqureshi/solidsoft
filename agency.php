@@ -22,7 +22,7 @@
 </ul></div>
 <div class="green">
 
-<p>With a team of over 300 employees, Capital Numbers gives you the resources to outsource any sort of digital marketing work you can imagine. Any agency, no matter how small or large, can use our workforce to staff their projects on-demand.
+<p>With a team of over 300 employees, We Know IT gives you the resources to outsource any sort of digital marketing work you can imagine. Any agency, no matter how small or large, can use our workforce to staff their projects on-demand.
 </p>
   <br>
 </div></div></div>

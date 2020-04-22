@@ -38,7 +38,7 @@ For diverse needs involving web, mobile and digital marketing, we are a one stop
 
   <h1>By saving time and resources with our one-stop solutions,<br> you’ll be able to spend your efforts on managing and growing your business helping it quickly finish projects, <br>hit revenue goals, and experience easy, long-term growth.
 </h1>
-<p>The fact is, when you’re working with Capital Numbers, you’re working with experienced and competent designers, developers, and digital marketers. Our teams work exclusively for you, eight hours a day, and provide complete transparency. Not only do you know exactly what’s happening, and when, but we also keep you up to date without using technical jargon.</p>
+<p>The fact is, when you’re working with We Know IT, you’re working with experienced and competent designers, developers, and digital marketers. Our teams work exclusively for you, eight hours a day, and provide complete transparency. Not only do you know exactly what’s happening, and when, but we also keep you up to date without using technical jargon.</p>
 </div>
 </div></div>
 <section class="white">

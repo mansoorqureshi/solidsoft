@@ -9,10 +9,10 @@
   <section class="green">
     <div class="container">
 <br>
-    <ul class="breadcrumb">
+    <!--<ul class="breadcrumb">
       <li><a href="index.php">Home</a></li>
       <li>Web Development</li>
-    </ul>
+    </ul> -->
   </div>
   <br>
 <div class="green">
@@ -20,26 +20,29 @@
 </div>
 <div class="container">
   <h1>Web App Developement</h1>
+  <h2 class="typewrite" data-period="2000" data-type='["Increase Your profits and cut Costs...","We Specialise in Ecommerce Stores;", "Online Orders Management", "Digital Marketing","We Know IT with 20 Years in Business"]'>
+            <span class="wrap"></span>
+         </h2>
 </div>
 <div class="green container">
 
-  <h2>CMS based Websites</h2>
+ <!-- <h2>CMS based Websites</h2> -->
 </div>
 <div class="green">
   <div class="container">
-  <p>Our developers have experience
+ <!-- <p>Our developers have experience
     building websites for almost every industry and on almost every platform
-     including WordPress, Drupal and Joomla.  </p>
+     including WordPress, Drupal and Joomla.  </p> -->
 </div>
 </div>
 <section class="green">
   <div class="container">
     <div class="green">
-<h2>  ECommerce Applications
-</h2>
+<!--<h2>  ECommerce Applications
+</h2> 
 <p>If you have a store or need new one, we can surely help you with the same.
  We can create a store for you from scratch or, leverage popular platforms such as WooCommerce, Shopify or Magento.
-</p>
+</p> -->
 </div>
 </div>
 </section>
@@ -48,7 +51,9 @@
 <h2>API Development and Documentation</h2>
 <p >We can help you if you need to build
  or, consume an API. Our teams have worked with
- all sort of APIs including Voice, Video, Payment, Cloud, Accounting etc.</p>
+ all sort of APIs including Voice, Video, Payment, Cloud, Accounting etc.Our developers have experience
+    building websites for almost every industry and on almost every platform
+     including WordPress, Drupal and Joomla.</p>
 
 </div>
 <div class="white container">
@@ -58,8 +63,9 @@
 </section>
 <section class="green">
 
-<div class="green">
 <div class="container">
+<div class="green">
+
 <h2>Web Applications</h2>
 <p>  We have built all sorts of web-applications from online forms, workflows to whole management systems. We work on projects both big and small.
 </p>

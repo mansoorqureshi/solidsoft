@@ -963,4 +963,8 @@ transition: 1s;
 {
   font-size:20px;
 }
+
+.tech_btn{
+  background-color: rgb(155, 177, 133);
+}
 }

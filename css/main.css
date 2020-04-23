@@ -190,8 +190,8 @@ background-color: #000000;
 }
 
 .homePara{
-color: #7a7c7f; font-size: 35px; font-family: "Helvetica Neue", serif; line-height: 35px; text-align: justify; text-shadow: 0 1px 1px #fff; padding-top: 20px;
-font-weight: lighter;}
+color: #7a7c7f;padding: 5%; font-size: 27px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, serif; line-height: 42px; text-align: justify; text-shadow: 0 1px 1px #fff; padding-top: 20px;
+font-weight: 300;}
 
 /*TECHNOLOGIES*/
 .tech{

@@ -20,6 +20,16 @@ and digital marketing capabilities and We Mean IT</h1>
 </div>
 <section class="box3">
   <div class="container">
+  <div class="homePara">
+    Personal Project Manager.  Clean Code, Hand Crafted Apps. Fixed Affordable Costs According to Your Budget. No Job Big or Small, We Deliver According to Your Requirements.
+24/7 Customer Support and Dedicated Project Manager Throughout Development.
+We Know IT has fast become a dynamic and fast-moving company in Client Solution Management in 
+Information Technology industry.
+<br><br>Established as Successful Start up, we have quickly expanded our operations globally and served customers from 
+UK, USA, Canada, Europe, Pakistan, Indonesia, Dubai, Mauritius, Hong Kong and many others. 
+We strive to provide you with the best solutions to your business system needs. 
+As our client, we place great emphasis and focus on your problems and goals and develop solutions 
+that best fits your business with an enduring impact. We think of ourselves as your long-term partner.</div>
     <h1>Services</h1>
     <div class="box1">
 <a href="web_dev.php" class="text_a" >      <h2 class="services">Web Applications</h2>

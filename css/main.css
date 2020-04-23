@@ -188,9 +188,14 @@ color: #153b52;
 background-color: #000000;
 
 }
+
+.homePara{
+color: #7a7c7f; font-size: 27px; font-family: "Helvetica Neue", serif; line-height: 35px; text-align: justify; text-shadow: 0 1px 1px #fff; padding-top: 20px;
+font-weight: lighter;}
+
 /*TECHNOLOGIES*/
 .tech{
-  background-color: #796dbb;
+  background-color: #9f9ea5;
   border-top:3px #5e77be solid;
   width: 100%;
  /* height: auto;
@@ -200,7 +205,7 @@ background-color: #000000;
 }
  .text_a{
   text-decoration: none;
-  color: #d3eced;
+  color: #143025;
   font-size: 22px;
   font-weight: 600;
 }
@@ -963,6 +968,12 @@ transition: 1s;
 {
   font-size:20px;
 }
+
+.homePara
+{
+  font-size: medium; padding: 5%;
+}
+
 
 .c-btn1{
   color: #000000;

@@ -964,7 +964,18 @@ transition: 1s;
   font-size:20px;
 }
 
-.tech_btn{
-  background-color: rgb(155, 177, 133);
+.c-btn1{
+  color: #fff;
+  display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-family:Raleway;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 35px;
+transition: 1s;
+    border: 2px solid #fff;
+    padding: 0 22px;
+    margin-top: 40px;
 }
 }

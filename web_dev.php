@@ -101,12 +101,10 @@
 <h2>Software Development</h2>
 <p>  Our engineering team has a lot of experience in developing complex web based business systems with multiple users and roles and that connect with CRM, Accounting, Inventory and Other Systems.
 </p>
-</div>
-</div>
-  
 
     <div class="tech_btn"><a href="start.php"><button class="c-btn1"> Hire Web Developers > ></button></a></div>
     </section>
-
+    </div>
+    </div>
 <?php include('choose.php'); ?>
 <?php include('footer.php') ?>

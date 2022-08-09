@@ -1,0 +1,562 @@
+/*.fullbody{
+	position:fixed;
+	top:0; left:0;
+	margin:0 auto;
+	background-color:#CCC;
+	width:100%;
+	height:10%;
+	z-index:15;
+
+
+.container{
+
+	max-width:80%;
+	height:auto;
+	z-index:15;
+	margin: 0 auto;
+	border-style:solid;
+	border-color:#F03;
+
+}*/
+html, body {
+
+ margin: 0;
+ font-family: Raleway;
+
+}
+.container{
+width: 80%;
+margin:0  auto;
+overflow: hidden;
+max-width: 1170px;
+}
+.h1{}
+h1{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+p{
+  font-size: 16px;
+  color: #fff;
+  font-family: Raleway;
+  line-height: 02;
+}
+/*header*/
+header{
+background-color:#084961;
+padding-top: 20px;
+border-bottom:#1fe5af 3px solid;
+line-height: 30px;
+min-height: 70ox;
+}
+.smenu{
+  color: #fff;
+  float: right;
+
+  padding-top: 20px;
+  padding-right: 200px;
+}
+.smenu a{
+  font-size: 20px !important;
+  color: #fff;
+  text-decoration: none;
+}
+.logo_menu{
+  height: 80px;
+}
+.logo{
+  /*margin:2;
+  padding-left:0%;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin: 0;*/
+  width: 12%;
+    float: left;
+    padding-left: 10%;
+
+}
+/*menu classes*/
+
+#cssmenu{
+  z-index: 1000;
+}
+.menuu{
+  padding-left: 10% !important;
+
+}
+/*Buttons*/
+.c-btn{
+
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-family:Raleway;
+    font-weight: 600;
+    color: #fff;
+    background: #1fe5af;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 25px;
+    text-transform: uppercase;
+    border: 2px solid #1fe5ad;
+    text-align: center;
+
+}
+.box .c-btn{
+
+}
+
+.c-btn:hover{
+
+
+      font-family:Raleway;
+      font-weight: 600;
+      color: #fff;
+      background: #db2857;
+      border-radius: 4px;
+
+      text-transform: uppercase;
+      border: 2px solid #db2852;
+
+}
+.float{
+    padding-left: 42%;
+}
+.tech_btn{
+text-align: center;
+}
+
+.tech .texh{
+margin-left: 0%;
+}
+.c-btn1{
+
+display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-family:Raleway;
+    font-weight: bold;
+    color: #fff;
+    background: #1fe5af;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 35px;
+    text-transform: uppercase;
+    border: 2px solid #1fe5ad;
+    padding: 0 22px;
+    margin-top: 20px;
+}
+
+.c-btn1:hover{
+
+
+      font-family:Raleway;
+      font-weight: bold;
+      color: #fff;
+      background: #db2857;
+      border-radius: 4px;
+      text-transform: uppercase;
+      border: 2px solid #db2852;
+}
+/*content area*/
+.show{
+  margin: 0 auto;
+padding: 0%;
+
+width:96.5%;
+min-height: 400px;
+text-align: center;
+color: #153b52;
+
+}
+
+/*TECHNOLOGIES*/
+.tech{
+  background-color: #084961;
+  border-top:3px #1fe5af solid;
+  width: 100%;
+  margin: auto;
+  max-width: 1500px;
+  border-bottom:3px #1fe5af solid;
+}
+ .text_a{
+  text-decoration: none;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+}
+ .tech .tech1{
+  width: 23%;
+  height: 400px;
+  border-radius:5px;
+  margin-left: 10px;
+  color:#000;
+  background-color: #fff;
+  border: 1px #000 solid;
+  float:left;
+}
+ .tech h1{
+   font-family: Raleway;
+   font-size: 25px;
+   font-weight: 600;
+   color: #000;
+ }
+.tech_pad{
+margin-left:35%;
+}
+.tech_pad1{
+padding-left:10%;
+}
+.in{
+  }
+  .in h1{font-size:40px;
+  color:#fff;
+  font-family:Raleway;
+  font-weight:bold;
+  text-align:center
+}
+
+.in1 {
+  font-size:16px;
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+}
+/*WHY TO CHOOSE US */
+.choose{
+
+}
+.res{
+  width: 80%;
+}
+.choose h1{
+  font-size: 40px;
+  color: #000;
+  text-align: center;
+  font-weight:900;
+}
+.ch
+{
+font-size: 30px;
+font-weight: 600;
+float: left;
+}
+.ch1{
+  float: left;
+}
+.choose p{
+  color: #000;
+  font-size: 20px;
+  font-weight: 500;
+
+}
+/*content**/
+.box{
+  background-color: #084961;
+  border-top:3px #1fe5af solid;
+  width: 100%;
+  margin: auto;
+  max-width: 1500px;
+  border-bottom:3px #1fe5af solid;
+}
+.box3 .box1{
+  float: left;
+  text-align: center;
+  width: 30%;
+  padding: 10px;
+  background: #fff;
+}
+.box3 h1{
+  font-size: 40px;
+  color: #084961;
+  font-weight: bold;
+  font-family: Raleway;
+  text-align: center;
+}
+.box1 p{
+  color: #000;
+}
+/*Footer*/
+footer{
+  width:100%;
+  background:#084961;
+  color: #fff;
+  font-size:20px;
+  height: auto;
+
+}
+.footer-icons a{
+  color: #fff;
+  text-decoration: none;
+}
+.footer-links{
+
+}
+.footer-links a{
+  text-decoration: none;;
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+}
+.footer-company-name{
+text-align: center;
+}
+/*Responsive Styles*/
+
+@media screen and  (max-width:800px){
+  .container{
+    width: 100%;
+    margin: 0 auto;
+  }
+  header{
+  height: auto;
+  width: 100%;
+ }
+  nav{
+      display: none;
+      text-align: center  ;
+    }
+    Header .logo{
+      float: none;
+      text-align: center;
+    }
+    nav ul li{
+      float: none;
+    }
+    .tech_btn{width: 100%;}
+.smenu{
+  display: none;
+}
+    .box3 .box1{
+      width: 100%;
+      float: none;
+    }
+    .box3 p{
+      text-align: center;
+      font-size: 4vw}
+      .box h1{
+        font-size: 6vw;
+        text-align: center;
+      }
+      .box p{
+        font-size: 3vw;
+        text-align: center;
+      }
+    .float{
+padding: 0px;
+    }
+    .c-btn1{
+    width: 100%;
+    display: inline-block;
+        outline: none;
+        cursor: pointer;
+        font-family:Raleway;
+        font-weight: bold;
+        color: #fff;
+        background: #1fe5af;
+        border-radius: 5px;
+        font-size: 20px;
+        line-height: 35px;
+        text-transform: uppercase;
+        border    : 2px solid #1fe5ad;
+        padding: 0 22px;
+        margin-top: 20px;
+    }
+.tech .tech1{
+  margin: 0;
+  padding-left:10%;
+float:none;
+  width: 100%;
+}
+.in h1{text-align: center;}
+.tech h1{text-align: left;
+  font-size: 6vw;
+}
+.
+.tech .tech_pad{
+
+margin-left: 20%;
+
+}
+.tech_pad1{padding-left: 0%;}
+.ch, .ch1{
+  float: none;
+}
+
+.res{
+  text-align: center;
+  padding-left:10px;
+  width: 90%;
+font-size: 4vw;
+  margin-right:10%;
+}
+  .choose h1{
+    font-size: 7vw;
+    text-align: center;
+  }
+
+  .ch{
+    font-size: 6vw;
+  }
+  .ch1{
+    padding-left: 5%;
+  }
+  .k{
+    padding-left: 5%;
+  }
+  footer{
+    margin:0 auto;
+    text-align:left;
+    width: 100%;
+
+  }
+  footer h1{
+    text-align: left;
+    font-size:6vw;
+    margin-left: 20%;
+  }
+  .footer-icons{width: 70%;
+  margin-left: 20%;}
+  .footer-icons a{
+    font-size: 16px;
+  }
+  .mail{
+    margin-left: 20%;
+  }
+  .phone{
+    margin-left: 20%;
+  }
+  .footer-links a{
+    width: 60%;
+    margin-left:10%;
+    font-size: 4vw;
+  }.footer-links{
+    margin-right: 10%;
+  }
+  .footer-company-name{
+    width: 70%;
+margin-left: 30%;
+    font-size: 16px;
+    text-align: left;
+  }
+  .show{
+    width: 88%;
+  }
+  /*two color h1 h2 and paragraphs*/
+  .green{
+    background-color: #084961;
+width: 100%;
+  }
+  .green h1{
+    color: #fff;
+    text-align: center;
+    font-size: 6vw;
+    font-weight: bold;
+    font-family: Raleway;
+  }
+  .green h2{
+    color: #fff;
+      text-align: center;
+      font-size: 6vw;
+      font-weight: bold;
+      font-family: Raleway;
+  }
+  .green p{
+    color: #fff;
+
+    font-size: 4vw;
+    margin-left: 10%;
+  }
+  .white{
+    background-color: #fff;
+  }
+  .white h1{
+  color: #000;
+  text-align: center;
+  font-size: 6vw;
+  font-weight: bold;
+  font-family: Raleway;
+  }
+  .white p{
+    color: #000;
+    font-size: 4vw;
+    margin-left: 10%;
+  }
+  .white h2{
+    margin-left: 10%;
+    font-size:5vw;
+    margin-right: 10%;
+  }
+
+}
+/*two color h1 h2 and paragraphs*/
+.green{
+  background-color: #084961;
+}
+ .green h1{
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Raleway;
+  }
+
+  .green h2{
+      color: #fff;
+      margin-left: 10%;;
+      font-size: 30px;
+      font-weight: bold;
+      font-family: Raleway;
+  }
+  .green p{
+    color: #fff;
+
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+   }
+  .white{
+  background-color: #fff;
+}
+.white h1{
+color: #000;
+text-align: center;
+font-size: 40px;
+font-weight: bold;
+font-family: Raleway;
+
+}
+.white p{
+  font-weight: 400;
+  color: #000;
+  font-size: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.white h2{
+  margin-left: 10%;
+  font-size:30px;
+  margin-right: 10%;
+}
+.white ul{
+  padding-left: 11%;
+  padding-right: 10%;
+}
+.white ul li {
+  line-height:30px;
+}
+.green ul{
+  padding-left: 11%;
+  padding-right: 10%;
+}
+.green ul li {
+  color: #fff;
+  line-height:30px;
+}
+
+/*web developement page css*/
+.backg{
+  width: 100%;
+}
